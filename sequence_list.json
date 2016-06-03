@@ -1,0 +1,45 @@
+{
+  "mainTitle": "I <3 Greenpoint",
+  "frontPageDescription": "My favorite spots in the best neighborhood in Brooklyn.",
+  "keys":[
+    {
+      "key": "ZntZkOzs65XkjNz-Out5PA",
+      "title": "Transmitter Park",
+      "description": "Transmitter Park was the site of the public radio station WNYC from 1937 - 1990.  Now it's a great little local park with amazing views of Manhattan across the East River.  Bernie Sanders held his Brooklyn rally here and it was packed."
+    },
+    {
+      "key": "6vRsZAP-co7GX4hP--pC4w",
+      "title": "Manhattan Avenue",
+      "description": "Before Greenpoint was overrun with hipsters, it was a thriving Polish community. You can still see evidence of it on the main drag.  On this stretch from Greenpoint Ave walking north, you'll pass at least three Polish butchers and two Polish bakeries." 
+    },
+    {
+      "key": "D9T1vXqdYk31wdnxXClCpA",
+      "title": "McCarren Park",
+      "description": "McCarren is huge and has lots of amenities, including a restored olympic sized pool.  10 years ago, this pool was empty for awhile, and they used to have concerts in it.  I watched Deerhoof play one of their best shows here."  
+    },
+    {
+      "key": "7G6erbU_8zJUfHcRPwYXhw",
+      "title": "Pulaski Bridge",
+      "description": "Until recently, the Pulaski Bridge --while offering amazing views of the Manhattan skyline-- was  death trap for pedestrians.  The NYCDOT opened a separate bike lane on May 1 and it is now a glorious 10 minute walk from Brooklyn to Queens."
+    }
+  ],
+
+  "imagedescriptions" : [
+    {
+      "key": "HVVtGpBbv7S2WkYvY4eADA",
+      "description": "Am I technically in Brooklyn or Queens at this point?"
+    },
+    {
+      "key": "A7oY6SgBTjHRTu_Cd6ISfA",
+      "description": "These pics don't do the park justice -- that thumb belongs to Dave from Mapzen."
+    },
+    {
+      "key": "tRONCUnNtniKVeycYraang",
+      "description": "This is where people #feltthebern."
+    },
+    {
+      "key": "6vRsZAP-co7GX4hP--pC4w",
+      "description": "At Kiszka I learned that kielbasa is just a generic word for sausage and there are many many types -- my favorite is kabanosy."
+    }
+  ]
+}
